@@ -1,0 +1,7 @@
+{
+  "name": "心流静岛 (Flow Island)-调试完成",
+  "description": "一个助您脱离手机干扰、专注当下的智能便利贴。开口即记事，日程自动浮现。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
