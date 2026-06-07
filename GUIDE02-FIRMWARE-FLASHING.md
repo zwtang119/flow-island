@@ -51,8 +51,9 @@
 // ===================================================================================
 const char* WIFI_SSID = "您的WiFi名称";
 const char* WIFI_PASSWORD = "您的WiFi密码";
-// 示例: "http://192.168.1.10:3000/api/image"
-const char* IMAGE_URL = "http://<your_local_ip>:3000/api/image";
+// 示例: "http://192.168.1.10:3000/api/image?token=YOUR_AUTH_TOKEN"
+// Auth Token 在服务器启动时显示于终端，请填入您的 Token
+const char* IMAGE_URL = "http://<your_local_ip>:3000/api/image?token=<your_token>";
 // ===================================================================================
 
 // --- Time Settings ---
