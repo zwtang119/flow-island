@@ -21,3 +21,6 @@ npm-debug.log*
 # IDE
 .vscode/
 .idea/
+# --- security-sweep 2026-08-26 hardening ---
+*.db
+*.sqlite
